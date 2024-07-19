@@ -1,0 +1,6 @@
+@server_HostAddress = http://localhost:8080
+
+GET {{server_HostAddress}}/sales_entry/
+Accept: application/json
+
+###
